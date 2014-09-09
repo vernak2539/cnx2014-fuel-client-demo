@@ -1,0 +1,31 @@
+{
+  "name": "demo",
+  "version": "0.0.0",
+  "description": "cnx fuel node clients demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.exacttarget.com:avernacchia/cnx-fuel-node-demo.git"
+  },
+  "keywords": [
+    "fuel",
+    "fuel-auth",
+    "fuel-rest",
+    "fuel-soap",
+    "fuel-api"
+  ],
+  "author": "Alex Vernacchia",
+  "license": "MIT",
+  "dependencies": {
+    "fuel-rest": "^0.7.0",
+    "fuel-auth": "^0.5.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "jshint-stylish": "^0.4.0",
+    "gulp-jshint": "^1.8.4"
+  }
+}
