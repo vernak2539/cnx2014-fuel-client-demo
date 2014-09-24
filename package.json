@@ -22,7 +22,7 @@
   "dependencies": {
     "fuel-rest": "^0.7.0",
     "fuel-auth": "^0.5.1",
-    "fuel-soap": "git+https://5c5ee8a46cffa0b1dd1e4479ca83e640adb9b20f:x-oauth-basic@github.com/ExactTarget/Fuel-Node-SOAP.git"
+    "fuel-soap": "^0.1.0"
   },
   "devDependencies": {
     "gulp": "^3.8.8",

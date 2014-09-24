@@ -12,7 +12,7 @@ var interactionConfig = require( './config/interaction' );
 var localAuth = {
 	clientId: authConfig.clientId
 	, clientSecret: authConfig.clientSecret
-	, authUrl: 'https://auth-qa1s1.exacttargetapis.com/v1/requestToken'
+	, authUrl: 'https://auth.exacttargetapis.com/v1/requestToken'
 };
 
 // client setup

@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-	clientId: 'd2b5t6u6m7ydmvcx8f5gafz5'
-	, clientSecret: 'dPSFHjPNM3jz9NhWVHAKBcY5'
+	clientId: 'nssxd8q8pwchqz96a7u4thpc'
+	, clientSecret: '7EaYxt5ujKrHtwYtBK6MQYs8'
 };
